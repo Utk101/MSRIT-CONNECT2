@@ -1344,6 +1344,11 @@
                                     <constraint firstAttribute="height" constant="100" id="e5Q-Vf-gvY"/>
                                 </constraints>
                             </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ju5-kS-Kgw">
+                                <rect key="frame" x="154" y="317" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.41437975888324874" green="0.41437975888324874" blue="0.41437975888324874" alpha="0.71933861301369861" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
