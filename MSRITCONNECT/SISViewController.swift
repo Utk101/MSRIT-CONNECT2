@@ -23,3 +23,4 @@ class SISViewController: UIViewController , UIScrollViewDelegate {
         pageControl.currentPage = Int(scrollView.contentOffset.x / CGFloat(414))
     }
 }*/
+	
